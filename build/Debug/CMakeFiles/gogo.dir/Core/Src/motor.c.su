@@ -1,0 +1,15 @@
+D:/STM32/gogo/Core/Src/motor.c:11:6:motor_run	40	static
+D:/STM32/gogo/Core/Src/motor.c:72:6:Car_Stop	8	static
+D:/STM32/gogo/Core/Src/motor.c:79:6:Car_Forward	8	static
+D:/STM32/gogo/Core/Src/motor.c:88:6:Car_TurnLeft	8	static
+D:/STM32/gogo/Core/Src/motor.c:97:6:Car_Backward	8	static
+D:/STM32/gogo/Core/Src/motor.c:106:6:Car_StrafeLeft	8	static
+D:/STM32/gogo/Core/Src/motor.c:115:6:Car_StrafeRight	8	static
+D:/STM32/gogo/Core/Src/motor.c:124:6:Car_TurnRight	8	static
+D:/STM32/gogo/Core/Src/motor.c:133:6:Car_Forward_Avoid	8	static
+D:/STM32/gogo/Core/Src/motor.c:142:6:Car_Forward_Slow	8	static
+D:/STM32/gogo/Core/Src/motor.c:151:6:Car_Backward_Slow	8	static
+D:/STM32/gogo/Core/Src/motor.c:160:6:Car_TurnLeft_Slow	8	static
+D:/STM32/gogo/Core/Src/motor.c:169:6:Car_TurnRight_Slow	8	static
+D:/STM32/gogo/Core/Src/motor.c:178:6:Car_StrafeLeft_Slow	8	static
+D:/STM32/gogo/Core/Src/motor.c:187:6:Car_StrafeRight_Slow	8	static

@@ -1,0 +1,3 @@
+D:/STM32/gogo/Core/Src/servo.c:11:6:Lift_Run	16	static
+D:/STM32/gogo/Core/Src/servo.c:34:6:Gripper_SetAngle	16	static
+D:/STM32/gogo/Core/Src/servo.c:45:6:Gripper_SetAngle1	16	static
